@@ -1,0 +1,5 @@
+mkdir .\jenkins-shared-library\src, .\jenkins-shared-library\vars
+
+
+mkdir -p ~/Developer/jenkins-shared-library/{src, vars}
+cd ~/Developer/jenkins-shared-library
